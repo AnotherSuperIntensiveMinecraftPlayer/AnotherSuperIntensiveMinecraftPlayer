@@ -18,14 +18,6 @@
   </a>
   <a href="https://github.com/Heyimlulu">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnotherSuperIntensiveMinecraftPlayer&theme=dark&show_icons=true&hide_border=0&title_color=3CCF91" />
-  </a>
-  <a href="https://github.com/Heyimlulu/Discord-About-Me-Customisation">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnotherSuperIntensiveMinecraftPlayer&repo=Discord-About-Me-Customisation&theme=dark&hide_border=0&title_color=3CCF91" />
-  </a>
-    <a href="https://github.com/Heyimlulu/The-Eye">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnotherSuperIntensiveMinecraftPlayer&repo=The-Eye&theme=dark&hide_border=0&title_color=3CCF91" />
-  </a>
-</div>
 
 # 🔧 Technologies & Tools
 
@@ -95,17 +87,16 @@
 
 # 🔭 I’m currently working on
 
-- [RacoonBot](https://top.gg/bot/734426328002068481) - `A funny and cute Discord Bot`
-- My website - Built with VueJS and TailwindCSS
+Nothing :D 
 
 # 🌱 I’m currently learning
 
 <details>
 <summary>Front-End</summary>
   
-- ReactJS
-- VueJS
-- Angular
+- JS
+- php
+- css
   
 </details>
 
@@ -132,6 +123,4 @@
 
 # 📫 How to reach me
 
-Discord - [Slimey#0667](https://discord.com/users/265896171384340480)
-
-[![Discord Server](https://discordapp.com/api/guilds/842856705029046282/widget.png?style=banner4)](https://discord.gg/G43WEkkZ7w)
+you cant dumbass
